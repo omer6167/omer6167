@@ -1,7 +1,6 @@
  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
-
-https://github-readme-stats.vercel.app/api?username=omer6167
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167" />
 
 <!--
 **omer6167/omer6167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
