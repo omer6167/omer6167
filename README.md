@@ -30,10 +30,10 @@
 
 
 <a href="https://github.com/omer6167/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167&theme=gruvbox&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167&theme=&layout=compact"/>
 </a>
 <a href="https://github.com/omer6167/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=gruvbox&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=&layout=compact"/>
 </a>
 
 
