@@ -10,7 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=tokyonight"/>
 </a>
 <a href="https://github.com/omer6167/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime/username=omer6167"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/wakatime?username=omer6167"/>
 </a>
 <!--
 **omer6167/omer6167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
