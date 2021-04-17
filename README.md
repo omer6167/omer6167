@@ -1,12 +1,12 @@
-### Hi there 👋
-
-
  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<omer6167>&theme=<THEME_NAME>" />
+
 <!--
 **omer6167/omer6167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-
+### Hi there 👋
 
 
 Here are some ideas to get you started:
