@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167" />
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167" />
 
 
 <!--
