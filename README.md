@@ -4,20 +4,18 @@
 
 
 <a href="https://github.com/omer6167/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167&theme=gruvbox&layout=compact"/>
 </a>
 <a href="https://github.com/omer6167/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=gruvbox&layout=compact"/>
 </a>
-<a href="https://github.com/omer6167/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omer6167&theme=tokyonight&layout=compact"/>
-</a>
-<!--
-**omer6167/omer6167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
- //Sample
- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=omer6167&theme=<Gradient>" />
 
+
+
+<!--
+**omer6167/omer6167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+ //Sample
+ <img align="center" src="https://github-readme-stats.vercel.app/api/CARD_TYPE/?username=omer6167&theme=Theme_Name&layout=Layout_Name" />
 https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -25,6 +23,9 @@ https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontr
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omer6167&repo=convoychat&layout=compact" />
+</a>
+<a href="https://github.com/omer6167/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omer6167&theme=tokyonight&layout=compact"/>
 </a>
 
 All Themes
