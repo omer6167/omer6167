@@ -1,9 +1,9 @@
  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167"/>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167theme=highcontrast" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=highcontrast"/>
 
 
 <!--
