@@ -26,7 +26,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer6167&" alt="omer6167" /></p>
 
 
 <a href="https://github.com/omer6167/github-readme-stats">
@@ -35,7 +34,9 @@
 <a href="https://github.com/omer6167/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=&layout=compact"/>
 </a>
-
+<a href="https://github.com/omer6167/github-readme-stats">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer6167&" alt="omer6167" /></p>
+</a>
 
 
 <!--
