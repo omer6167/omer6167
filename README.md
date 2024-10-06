@@ -29,7 +29,7 @@
 
 
 
-# Github Stats
+## Github Stats
 <br />
   <p align="center">
   <a href="https://github.com/omer6167/github-readme-stats">
@@ -50,15 +50,19 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/CARD_TYPE/?username=omer6167&theme=Theme_Name&layout=Layout_Name" />
 https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omer6167&repo=github-readme-stats&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omer6167&repo=convoychat&layout=compact" />
-</a>
-<a href="https://github.com/omer6167/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omer6167&theme=tokyonight&layout=compact"/>
-</a>
+<br />
+  <p align="center">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omer6167&repo=github-readme-stats&layout=compact" />
+ </a>
+ <a href="https://github.com/anuraghazra/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=omer6167&repo=convoychat&layout=compact" />
+ </a>
+ <a href="https://github.com/omer6167/convoychat">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=omer6167&theme=tokyonight&layout=compact"/>
+ </a>
+   <p align="center">
+<br />
 
 All Themes
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
