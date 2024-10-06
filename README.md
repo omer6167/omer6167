@@ -4,6 +4,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=100&background=1514B800&vCenter=true&multiline=true&random=true&width=700&height=100&lines=A+Passionate+Full+Stack+Developer+From+Turkey)](https://git.io/typing-svg)
 
+[![omer6167's 42 stats](https://badge.mediaplus.ma/greenbinary/omer6167?UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omer6167&label=Profile%20views&color=0e75b6&style=flat" alt="omer6167" /> </p>
