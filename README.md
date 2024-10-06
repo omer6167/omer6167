@@ -36,23 +36,21 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167&theme=&layout=compact"/>
   </a> 
 </p>
-<br/>
-    
-<br />
 <p align="center">    
   <a href="https://github.com/omer6167/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer6167&theme=&layout=compact"/>
   </a>
 </p>
-<br/>
-
-<br/>
 <p align="right">
   <a href="https://github.com/omer6167/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer6167&" alt="omer6167" />
   </a>
  </p>
 <br/>
+    
+
+
+
   
 
 <!--
