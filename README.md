@@ -32,7 +32,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/omer6167/omer6167/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+ 
 
 ## Github Stats
 <br/>
