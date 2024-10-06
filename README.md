@@ -1,8 +1,9 @@
  
  <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  , I'm Ömer KÜÇÜK</h1>
-<h3 align="center">A passionate Full stack Developer from Turkey</h3>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A Passionate+Full+Stack+Developer;From+Kocaeli/+Turkey)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omer6167&label=Profile%20views&color=0e75b6&style=flat" alt="omer6167" /> </p>
