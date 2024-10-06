@@ -31,7 +31,7 @@
 
 ## Github Stats
 <br/>
-<p align="center">
+<p align="left">
   <a href="https://github.com/omer6167/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=omer6167&theme=&layout=compact"/>
   </a> 
@@ -47,7 +47,7 @@
 <br/>
 
 <br/>
-<p align="center">
+<p align="right">
   <a href="https://github.com/omer6167/github-readme-stats">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omer6167&" alt="omer6167" />
   </a>
