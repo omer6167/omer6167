@@ -2,7 +2,7 @@
  <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
  , I'm Ömer KÜÇÜK</h1>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=A+Passionate+Full+Stack+Developer💻)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1500&pause=100&background=1514B800&vCenter=true&multiline=true&random=true&width=700&height=100&lines=A+Passionate+Full+Stack+Developer+From+Turkey)](https://git.io/typing-svg)
 
 
 
