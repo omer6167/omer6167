@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Rent a Car Project](https://github.com/omer6167/RecapProject)
 
-- 🌱 I’m currently learning **Angular,Java,.Net,C#,**
+- 🌱 I’m currently learning **Angular,Java,.Net,C#,React,**
 
 - 💬 Ask me about **Anything**
 
